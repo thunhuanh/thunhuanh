@@ -27,8 +27,8 @@
 > - 🔧 Problem solver & continuous learner
 > - ⚡ Building tools that help people
 
-### ⚔️ Arsenal
-## 🗡️ Primary Languages
+### ⚔️ Weapon Arsenal
+#### 🗡️ Primary Languages
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
@@ -50,7 +50,7 @@
   <img alt="Rust" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
 </picture>
 
-## 🛡️ Frontend Magic (Frontend Technology)
+#### 🛡️ Frontend Magic (Frontend Technology)
 <picture>
   <img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </picture>
@@ -64,7 +64,7 @@
   <img alt="TailwindCSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </picture>
 
-## ⚔️ Backend Sorcery (Backend Technology)
+#### ⚔️ Backend Sorcery (Backend Technology)
 <picture>
   <img alt="Golang" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </picture>
@@ -78,7 +78,7 @@
   <img alt="GraphQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
 </picture>
 
-## 🏺 Artifacts Storage (Database)
+#### 🏺 Artifacts Storage (Database)
 <picture>
   <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </picture>
@@ -92,7 +92,7 @@
   <img alt="Firebase" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </picture>
 
-## 🧪 Sacred Tools (Other tools)
+#### 🧪 Sacred Tools (Other tools)
 <picture>
   <img alt="Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </picture>
