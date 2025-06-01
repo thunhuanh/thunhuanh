@@ -137,10 +137,9 @@ Currently exploring:
 ```
 
 ### 🎮 Current Quests
-- 🎨 NFT Development
 - 🌐 Web3 Exploration
 - 📜 Smart Contracts
-- 🤖 AI Integration
+- 🤖 AI Agent Integration
 
 ### 🌟 Contact
 ```
